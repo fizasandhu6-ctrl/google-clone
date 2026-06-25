@@ -71,3 +71,20 @@ input[type="text"] {
     cursor: pointer;
     padding-top: 10px;
 }
+
+footer {
+  background-color: #f2f2f2;
+  padding: 20px;
+  text-align: center;
+  font-size: 14px;
+  color: #5f6368;
+  justify-content: space-between;
+  display: flex;
+}
+
+.footer-left, .footer-right {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  margin-top: 10px;
+}
